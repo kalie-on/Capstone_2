@@ -34,5 +34,3 @@ In this project, I will:
 - Find top customers and product categories  
 - Create charts to explain sales trends  
 - Give recommendations on where marketing should focus next quarter  
-
-This project will help me improve my Python, data analysis, and visualization skills while learning how data is used to support business decisions.
