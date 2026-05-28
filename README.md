@@ -7,10 +7,10 @@
 For this project, I will be using Python, Pandas, and Matplotlib to read, clean, and analyze sales data for EmporiUm. EmporiUm is a bookstore business
 that also sells technology products, art supplies, and other items both in stores and online.
 
-I will be analyzing two sales territories assigned to me;
+## I will be analyzing two sales territories assigned to me;
 
-- My first territory is ## Florida in the South Region, managed by Lana Llana.
-- My second territory is ## Maine in the North East Region, managed by Erbayne Middleton.
+#### My first territory is Florida in the South Region, managed by Lana Llana.
+#### My second territory is Maine in the North East Region, managed by Erbayne Middleton.
 
 The goal of this project is to compare sales performance between these two territories and answer business questions using data analysis. 
 I will use Jupyter Notebook to show my work step by step and explain the results I find.
