@@ -37,4 +37,4 @@ In this project, I will:
 
 - ## 10 minutes video recording.
 
-[caleb_video_here](https://yearuptemp-my.sharepoint.com/:v:/g/personal/ncalebndakina_my_yearupunited_org/IQDsnUZNqMCOTLdDxkYSwkeHAWwA6wnIbC7pox_Yt6kqhEY?e=IEIMmw}
+[caleb_video_here](https://yearuptemp-my.sharepoint.com/:v:/g/personal/ncalebndakina_my_yearupunited_org/IQDsnUZNqMCOTLdDxkYSwkeHAWwA6wnIbC7pox_Yt6kqhEY?e=IEIMmw)
