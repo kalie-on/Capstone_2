@@ -33,4 +33,8 @@ In this project, I will:
 - Compare store performance in both territories  
 - Find top customers and product categories  
 - Create charts to explain sales trends  
-- Give recommendations on where marketing should focus next quarter  
+- Give recommendations on where marketing should focus next quarter
+
+- ## 10 minutes video recording.
+
+[caleb_video_here](https://yearuptemp-my.sharepoint.com/:v:/g/personal/ncalebndakina_my_yearupunited_org/IQDsnUZNqMCOTLdDxkYSwkeHAWwA6wnIbC7pox_Yt6kqhEY?e=IEIMmw)
