@@ -9,8 +9,8 @@ that also sells technology products, art supplies, and other items both in store
 
 I will be analyzing two sales territories assigned to me;
 
-- My first territory is Florida in the South Region, managed by Lana Llana.
-- My second territory is Maine in the North East Region, managed by Erbayne Middleton.
+- My first territory is ## Florida in the South Region, managed by Lana Llana.
+- My second territory is ## Maine in the North East Region, managed by Erbayne Middleton.
 
 The goal of this project is to compare sales performance between these two territories and answer business questions using data analysis. 
 I will use Jupyter Notebook to show my work step by step and explain the results I find.
@@ -35,6 +35,7 @@ In this project, I will:
 - Create charts to explain sales trends  
 - Give recommendations on where marketing should focus next quarter
 
-- ## 10 minutes video recording.
+ ## 10 minutes video recording.
+ ### author - Ndifon
 
 [caleb_video_here](https://yearuptemp-my.sharepoint.com/:v:/g/personal/ncalebndakina_my_yearupunited_org/IQDsnUZNqMCOTLdDxkYSwkeHAWwA6wnIbC7pox_Yt6kqhEY?e=IEIMmw)
